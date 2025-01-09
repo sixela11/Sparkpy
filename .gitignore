@@ -5,3 +5,12 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+# Common credential files
+**/credentials.json
+**/client_secrets.json
+**/client_secret.json
+*creds*
+*.dat
+*password*
+*.httr-oauth*
