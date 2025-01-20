@@ -24,7 +24,4 @@ ayoko na po
 
 <<<<<<< HEAD
 =======
-bago
-=======
->>>>>>> 1baaf6e93fb687ca6e43d932493b8aa2fe22f81b
->>>>>>> 20c9c486efd2834d5f989cc399b748b0ccc37008
+bag
