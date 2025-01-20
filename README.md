@@ -21,4 +21,3 @@ ayoko na po
 >>>>>>> 0d9e54fb576ece3b5d668d022ecf8f199c1a6346
 
 
-bago
