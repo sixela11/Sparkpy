@@ -10,5 +10,3 @@ bag
 
 
 o cap?
-
-okay na ba?
