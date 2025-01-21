@@ -10,6 +10,3 @@ bag
 
 
 o cap?
-
-
-yes sir
