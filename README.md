@@ -6,7 +6,3 @@ Its time to edit the document.
 Happy Wednesday!!
 Happy Thursday!!
 
-bag
-
-
-o cap?
